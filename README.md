@@ -6,11 +6,12 @@ As of 16/02/2025 I will include a changelog for every update.
 16/02/2025:
 Added a Marquee slider to highlight technologies I have worked on and other very minor changes to skills-section.
 
-For next sunday (23/02/2025): A Windows Form Game (match tiles)
+By Sunday: A Windows Form Game (match tiles) && other projects.
+Superdelayed, will publish asap
 
 
 
 // Project
-TBD: Meet the Journals (Planning still in progress)
-- A journal app.
-
+Meet the Journals. Should be complete by the end of the month.
+- A journal app. Focusing on mental health, at least for my part.
+- A prototype might be available by Easter.
