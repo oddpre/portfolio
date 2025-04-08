@@ -13,5 +13,5 @@ Superdelayed, will publish asap
 
 // Project
 Meet the Journals. Should be complete by the end of the month.
-- A journal app. Focusing on mental health, at least for my part.
+- A journal app. Focusing on mental health.
 - A prototype might be available by Easter.
